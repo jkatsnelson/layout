@@ -1,0 +1,61 @@
+body {
+  /* rules go here */
+  padding: 0px;
+  margin: 0px;
+  font-family: arial,sans-serif;
+}
+#mainnav a {
+  color: #bbb;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  position:relative;
+  top: 7px;
+  margin: 0 8px;
+  border: 1px solid transparent;
+}
+#mainnav {
+  background: black;
+  color: #bbb;
+  margin: 0px;
+  padding: 0 5px;
+  height: 33px;
+}
+
+div{
+  float:right;
+}
+
+#signin {
+  float:right;
+  width: 75px;
+  height: 30px;
+  margin: 25px 20px;
+  font-size: 13px;
+  border-radius: 0px;
+}
+
+#logo {
+  position:relative;
+  top:170px;
+  left: 350px;
+}
+
+#googlesearch {
+  position:relative;
+  top:220px;
+  left:250px;
+  width: 500px;
+}
+
+#search, #lucky {
+  position:relative;
+  top: 250px;
+  right:100px;
+}
+
+#footernav {
+  position:relative;
+  top: 530px;
+  left: 400px;
+}
